@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+  <foreignObject x="40" y="40" width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="highlight highlight-source-yaml notranslate position-relative overflow-auto">
+        <pre><span class="pl-ent">basics</span>:
+          <span class="pl-ent">name</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>Full Coder<span class="pl-pds">&quot;</span></span>
+          <span class="pl-ent">email</span>: <span class="pl-s"><span class="pl-pds">&quot;</span><a href="mailto:fc@example.com">✉️</a><span class="pl-pds">&quot;</span></span>
+          <span class="pl-ent">profiles</span>:
+            -
+              <span class="pl-ent">network</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>LinkedIn<span class="pl-pds">&quot;</span></span>
+              <span class="pl-ent">url</span>: <span class="pl-s"><span class="pl-pds">&quot;</span><a href="https://www.linkedin.com/in/fc"><img alt="LinkedIn" src="https://static.cdnlogo.com/logos/l/78/linkedin-icon.svg" / width="16px" height="16px"></a><span class="pl-pds">&quot;</span></span>
+        </pre>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
